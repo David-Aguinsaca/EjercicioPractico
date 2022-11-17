@@ -1,15 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "a5A1eeB+eT9oZxTCjFMyDYUFq8L5nr3ma7+iepIqi2viEz6oQApg2+8hlS01vrYdo9kSEvv3IgAkD66SF2CNQQ==",
+  "dgSpecHash": "JkzSQsln/0aJ6Pus+bZLcGvBxF2JUMNL7Ra49ep+vkzrVbKnEZGHkLZf1SoKWhy30zU4c873NKfSCT9L8Kh2YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.HttpApi\\PruebaPractica.HttpApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net\\5.1.0\\restclient.net.5.1.0.nupkg.sha512",
+    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net.abstractions\\5.1.0\\restclient.net.abstractions.5.1.0.nupkg.sha512",
     "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\baguinsa\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\baguinsa\\.nuget\\packages\\urls\\1.0.0\\urls.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

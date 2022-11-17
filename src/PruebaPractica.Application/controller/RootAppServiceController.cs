@@ -8,13 +8,9 @@ public class RootAppServiceController : IRootRepository
     public ICollection<Root> MetodoGet()
     {
          /*  var client = new RestClient("https://rickandmortyapi.com/api/character");
-
          client.Timeout = -1;
-
          var request = new RestRequest(Method.GET);
-
          IRestResponse response = client.Execute(request);
-
          Console.WriteLine(response.Content); */
 
         var url = "https://rickandmortyapi.com/api/character";
@@ -33,7 +29,9 @@ public class RootAppServiceController : IRootRepository
                     using (StreamReader objReader = new StreamReader(strReader))
                     {
                         string responseBody = objReader.ReadToEnd();
-                        // Do something with responseBody
+                        
+                        //return responseBody;
+                        //Mostrar api
                         Console.WriteLine(responseBody);
                     }
                 }
@@ -46,4 +44,5 @@ public class RootAppServiceController : IRootRepository
 
         return null;
     }
+
 }

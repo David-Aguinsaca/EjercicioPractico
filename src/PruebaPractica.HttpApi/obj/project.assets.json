@@ -13,6 +13,15 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
@@ -20,6 +29,33 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+        }
+      },
+      "RestClient.Net/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.5",
+          "RestClient.Net.Abstractions": "5.1.0"
+        },
+        "compile": {
+          "lib/net5.0/RestClient.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/RestClient.Net.dll": {}
+        }
+      },
+      "RestClient.Net.Abstractions/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.5",
+          "System.Collections.Immutable": "5.0.0",
+          "Urls": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0/RestClient.Net.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/RestClient.Net.Abstractions.dll": {}
         }
       },
       "Swashbuckle.AspNetCore/6.2.3": {
@@ -72,6 +108,48 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "System.Collections.Immutable/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+        }
+      },
+      "Urls/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Urls.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Urls.dll": {}
+        }
+      },
+      "PruebaPractica.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PruebaPractica.Domain": "1.0.0",
+          "RestClient.Net": "5.1.0"
+        },
+        "compile": {
+          "bin/placeholder/PruebaPractica.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaPractica.Application.dll": {}
+        }
+      },
+      "PruebaPractica.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PruebaPractica.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaPractica.Domain.dll": {}
+        }
       }
     }
   },
@@ -103,6 +181,20 @@
         "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json"
       ]
     },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
+      "sha512": "ZvwowjRSWXewdPI+whPFXgwF4Qme6Q9KV9SCPEITSGiqHLArct7q5hTBtTzj3GPsVLjTqehvTg6Bd/EQk9JS0A==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec"
+      ]
+    },
     "Microsoft.OpenApi/1.2.3": {
       "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "type": "package",
@@ -118,6 +210,42 @@
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
         "microsoft.openapi.1.2.3.nupkg.sha512",
         "microsoft.openapi.nuspec"
+      ]
+    },
+    "RestClient.Net/5.1.0": {
+      "sha512": "blzKjnuE9Yho2+lUY/damDnF0seyoHfN2b0gG9AIXerrQwm8XawJO8ZT1Ha4rpjJ5pcAnzsR/6Q86+YgLUBFng==",
+      "type": "package",
+      "path": "restclient.net/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net45/RestClient.Net.dll",
+        "lib/net45/RestClient.Net.xml",
+        "lib/net5.0/RestClient.Net.dll",
+        "lib/net5.0/RestClient.Net.xml",
+        "lib/netstandard2.0/RestClient.Net.dll",
+        "lib/netstandard2.0/RestClient.Net.xml",
+        "restclient.net.5.1.0.nupkg.sha512",
+        "restclient.net.nuspec"
+      ]
+    },
+    "RestClient.Net.Abstractions/5.1.0": {
+      "sha512": "dpxIfurb46vElc0NvUK+xdlZEaZjmtY/T85xNXS4vAt0JiAoFRgO8rzJmwzhAHVqRvNjM6URtHquG4IxRH8DEA==",
+      "type": "package",
+      "path": "restclient.net.abstractions/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net45/RestClient.Net.Abstractions.dll",
+        "lib/net45/RestClient.Net.Abstractions.xml",
+        "lib/net5.0/RestClient.Net.Abstractions.dll",
+        "lib/net5.0/RestClient.Net.Abstractions.xml",
+        "lib/netstandard2.0/RestClient.Net.Abstractions.dll",
+        "lib/netstandard2.0/RestClient.Net.Abstractions.xml",
+        "restclient.net.abstractions.5.1.0.nupkg.sha512",
+        "restclient.net.abstractions.nuspec"
       ]
     },
     "Swashbuckle.AspNetCore/6.2.3": {
@@ -200,10 +328,62 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "System.Collections.Immutable/5.0.0": {
+      "sha512": "FXkLXiK0sVVewcso0imKQoOxjoPAj42R8HtjjbSjVPAzwDfzoyoznWxgA3c38LDbN9SJux1xXoXYAhz98j7r2g==",
+      "type": "package",
+      "path": "system.collections.immutable/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Collections.Immutable.dll",
+        "lib/net461/System.Collections.Immutable.xml",
+        "lib/netstandard1.0/System.Collections.Immutable.dll",
+        "lib/netstandard1.0/System.Collections.Immutable.xml",
+        "lib/netstandard1.3/System.Collections.Immutable.dll",
+        "lib/netstandard1.3/System.Collections.Immutable.xml",
+        "lib/netstandard2.0/System.Collections.Immutable.dll",
+        "lib/netstandard2.0/System.Collections.Immutable.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml",
+        "system.collections.immutable.5.0.0.nupkg.sha512",
+        "system.collections.immutable.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Urls/1.0.0": {
+      "sha512": "6DumPK5w7FqIMtj5c4zeGQxAE0IxCSSHhaLk6mo2hx16VuXzuoI3wBX8HorxxJfAjQxMtIBB2RuztEeio7IxMQ==",
+      "type": "package",
+      "path": "urls/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Urls.dll",
+        "lib/net5.0/Urls.dll",
+        "lib/netstandard2.0/Urls.dll",
+        "urls.1.0.0.nupkg.sha512",
+        "urls.nuspec"
+      ]
+    },
+    "PruebaPractica.Application/1.0.0": {
+      "type": "project",
+      "path": "../PruebaPractica.Application/PruebaPractica.Application.csproj",
+      "msbuildProject": "../PruebaPractica.Application/PruebaPractica.Application.csproj"
+    },
+    "PruebaPractica.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PruebaPractica.Domain/PruebaPractica.Domain.csproj",
+      "msbuildProject": "../PruebaPractica.Domain/PruebaPractica.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "PruebaPractica.Application >= 1.0.0",
+      "PruebaPractica.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -231,7 +411,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Application\\PruebaPractica.Application.csproj": {
+              "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Application\\PruebaPractica.Application.csproj"
+            },
+            "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Domain\\PruebaPractica.Domain.csproj": {
+              "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Domain\\PruebaPractica.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
