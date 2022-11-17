@@ -15,7 +15,7 @@ public class RootController : ControllerBase
     }
 
     [HttpGet("cgarcia_api_net")]
-    public ICollection<List<Root>> GetAll()
+    public ICollection<Root> GetAll()
     {
         return rootAppServiceController.MetodoGet();
     }
