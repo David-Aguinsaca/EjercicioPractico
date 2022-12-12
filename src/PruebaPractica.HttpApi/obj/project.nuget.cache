@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "JkzSQsln/0aJ6Pus+bZLcGvBxF2JUMNL7Ra49ep+vkzrVbKnEZGHkLZf1SoKWhy30zU4c873NKfSCT9L8Kh2YA==",
+  "dgSpecHash": "J2p6n014NfiC0oUw0V0f0T/X/AFGvkcEeNLCe5MveSEW9nGgkV3gUHZKjLh/2/Zn609wBloOBj3ra0FuWLlUcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.HttpApi\\PruebaPractica.HttpApi.csproj",
+  "projectFilePath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/PruebaPractica.HttpApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net\\5.1.0\\restclient.net.5.1.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net.abstractions\\5.1.0\\restclient.net.abstractions.5.1.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\urls\\1.0.0\\urls.1.0.0.nupkg.sha512"
+    "/home/david/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.5/microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/david/.nuget/packages/restclient.net/5.1.0/restclient.net.5.1.0.nupkg.sha512",
+    "/home/david/.nuget/packages/restclient.net.abstractions/5.1.0/restclient.net.abstractions.5.1.0.nupkg.sha512",
+    "/home/david/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/david/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/david/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/david/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/david/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/david/.nuget/packages/urls/1.0.0/urls.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

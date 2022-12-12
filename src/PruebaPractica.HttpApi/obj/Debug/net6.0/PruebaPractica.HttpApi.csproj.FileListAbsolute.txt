@@ -1,34 +1,68 @@
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\appsettings.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.HttpApi.exe
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.HttpApi.deps.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.HttpApi.runtimeconfig.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.HttpApi.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.HttpApi.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\RestClient.Net.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\RestClient.Net.Abstractions.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\Urls.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.Application.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.Domain.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.Application.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\bin\Debug\net6.0\PruebaPractica.Domain.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.csproj.AssemblyReference.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.AssemblyInfoInputs.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.AssemblyInfo.cs
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.csproj.CoreCompileInputs.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\scopedcss\bundle\PruebaPractica.HttpApi.styles.css
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.csproj.CopyComplete
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\refint\PruebaPractica.HttpApi.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\PruebaPractica.HttpApi.genruntimeconfig.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.HttpApi\obj\Debug\net6.0\ref\PruebaPractica.HttpApi.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/appsettings.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.exe
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.deps.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.runtimeconfig.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/RestClient.Net.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/RestClient.Net.Abstractions.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Urls.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Application.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Domain.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Application.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Domain.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.AssemblyReference.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.AssemblyInfoInputs.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.AssemblyInfo.cs
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.CoreCompileInputs.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/scopedcss/bundle/PruebaPractica.HttpApi.styles.css
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.CopyComplete
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/refint/PruebaPractica.HttpApi.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.genruntimeconfig.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.HttpApi/obj/Debug/net6.0/ref/PruebaPractica.HttpApi.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/appsettings.Development.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/appsettings.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.deps.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.runtimeconfig.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.HttpApi.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/RestClient.Net.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/RestClient.Net.Abstractions.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/Urls.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Application.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Domain.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Application.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/bin/Debug/net6.0/PruebaPractica.Domain.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.AssemblyReference.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.AssemblyInfoInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.AssemblyInfo.cs
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.CoreCompileInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/staticwebassets.build.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/staticwebassets.development.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/scopedcss/bundle/PruebaPractica.HttpApi.styles.css
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.csproj.CopyComplete
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/refint/PruebaPractica.HttpApi.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/PruebaPractica.HttpApi.genruntimeconfig.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/Debug/net6.0/ref/PruebaPractica.HttpApi.dll

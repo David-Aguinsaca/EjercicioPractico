@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2VilFW9CRRaYdqdlXptsACMfw593rciRAvshOBh+BD9FVpx3EJ48CBfj+pFZeRrr4XIb5uegV2fy7YAZCeNsgA==",
+  "dgSpecHash": "rZ0kfe9wUQZQDba7+0d/PiR28OKRHCOGe+iO7wAUBwSqcs3d49jRoQqyglz3QFq5oyfuXDQlI5p9XgEzhuv6NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Application\\PruebaPractica.Application.csproj",
+  "projectFilePath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/PruebaPractica.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\baguinsa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net\\5.1.0\\restclient.net.5.1.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\restclient.net.abstractions\\5.1.0\\restclient.net.abstractions.5.1.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Users\\baguinsa\\.nuget\\packages\\urls\\1.0.0\\urls.1.0.0.nupkg.sha512"
+    "/home/david/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.5/microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "/home/david/.nuget/packages/restclient.net/5.1.0/restclient.net.5.1.0.nupkg.sha512",
+    "/home/david/.nuget/packages/restclient.net.abstractions/5.1.0/restclient.net.abstractions.5.1.0.nupkg.sha512",
+    "/home/david/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/david/.nuget/packages/urls/1.0.0/urls.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

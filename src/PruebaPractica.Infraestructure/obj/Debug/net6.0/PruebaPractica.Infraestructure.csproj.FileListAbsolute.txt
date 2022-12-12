@@ -1,0 +1,15 @@
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/bin/Debug/net6.0/PruebaPractica.Infraestructure.deps.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/bin/Debug/net6.0/PruebaPractica.Infraestructure.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/bin/Debug/net6.0/PruebaPractica.Infraestructure.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/bin/Debug/net6.0/PruebaPractica.Domain.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/bin/Debug/net6.0/PruebaPractica.Domain.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.csproj.AssemblyReference.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.AssemblyInfoInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.AssemblyInfo.cs
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.csproj.CoreCompileInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.csproj.CopyComplete
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/refint/PruebaPractica.Infraestructure.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/PruebaPractica.Infraestructure.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/Debug/net6.0/ref/PruebaPractica.Infraestructure.dll

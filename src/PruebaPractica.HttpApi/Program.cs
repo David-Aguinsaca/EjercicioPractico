@@ -14,6 +14,11 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<RootAppServiceController>();
 
+//services.AddTransient<IMarcaRepository, MarcaRepository>();
+//builder.Services.AddTransient<IRoot RootAppServiceController>();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

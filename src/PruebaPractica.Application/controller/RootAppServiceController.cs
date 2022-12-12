@@ -1,5 +1,6 @@
 using System.Net;
 using PruebaPractica.Domain.repository;
+using System.Text.Json;
 
 namespace PruebaPractica.Application.controller;
 
@@ -31,7 +32,6 @@ public class RootAppServiceController : IRootRepository
                         string responseBody = objReader.ReadToEnd();
                         
                         //return responseBody;
-                        //Mostrar api
                         Console.WriteLine(responseBody);
                     }
                 }
@@ -43,6 +43,19 @@ public class RootAppServiceController : IRootRepository
         }
 
         return null;
+    }
+
+    public async Task<Root>ObtenerApiTask(){
+
+
+        var url = "https://rickandmortyapi.com/api/character";
+
+        var httpClient = new HttpClient();
+        var response = await httpClient.GetAsync(url);
+        var content = await response.Content.ReadAsByteArrayAsync();
+        var res = JsonSerializer.Deserialize<Root>(content);
+        return res;
+
     }
 
 }

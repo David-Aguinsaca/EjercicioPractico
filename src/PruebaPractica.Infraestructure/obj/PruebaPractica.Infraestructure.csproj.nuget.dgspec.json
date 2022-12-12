@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Infraestructure\\PruebaPractica.Infraestructure.csproj": {}
+    "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/PruebaPractica.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Infraestructure\\PruebaPractica.Infraestructure.csproj": {
+    "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Infraestructure\\PruebaPractica.Infraestructure.csproj",
-        "projectName": "PruebaPractica.Infraestructure",
-        "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Infraestructure\\PruebaPractica.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\baguinsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Infraestructure\\obj\\",
+        "projectUniqueName": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj",
+        "projectName": "PruebaPractica.Domain",
+        "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\baguinsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/david/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,64 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/PruebaPractica.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/PruebaPractica.Infraestructure.csproj",
+        "projectName": "PruebaPractica.Infraestructure",
+        "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/PruebaPractica.Infraestructure.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Infraestructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj": {
+                "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

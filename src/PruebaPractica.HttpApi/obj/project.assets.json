@@ -16,19 +16,27 @@
       "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "RestClient.Net/5.1.0": {
@@ -38,10 +46,14 @@
           "RestClient.Net.Abstractions": "5.1.0"
         },
         "compile": {
-          "lib/net5.0/RestClient.Net.dll": {}
+          "lib/net5.0/RestClient.Net.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net5.0/RestClient.Net.dll": {}
+          "lib/net5.0/RestClient.Net.dll": {
+            "related": ".xml"
+          }
         }
       },
       "RestClient.Net.Abstractions/5.1.0": {
@@ -52,10 +64,14 @@
           "Urls": "1.0.0"
         },
         "compile": {
-          "lib/net5.0/RestClient.Net.Abstractions.dll": {}
+          "lib/net5.0/RestClient.Net.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net5.0/RestClient.Net.Abstractions.dll": {}
+          "lib/net5.0/RestClient.Net.Abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/6.2.3": {
@@ -76,10 +92,14 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -91,19 +111,27 @@
           "Swashbuckle.AspNetCore.Swagger": "6.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -112,10 +140,14 @@
       "System.Collections.Immutable/5.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Urls/1.0.0": {
@@ -388,19 +420,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\baguinsa\\.nuget\\packages\\": {}
+    "/home/david/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.HttpApi\\PruebaPractica.HttpApi.csproj",
+      "projectUniqueName": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/PruebaPractica.HttpApi.csproj",
       "projectName": "PruebaPractica.HttpApi",
-      "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.HttpApi\\PruebaPractica.HttpApi.csproj",
-      "packagesPath": "C:\\Users\\baguinsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.HttpApi\\obj\\",
+      "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/PruebaPractica.HttpApi.csproj",
+      "packagesPath": "/home/david/.nuget/packages/",
+      "outputPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.HttpApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\baguinsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/david/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -412,11 +444,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Application\\PruebaPractica.Application.csproj": {
-              "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Application\\PruebaPractica.Application.csproj"
+            "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/PruebaPractica.Application.csproj": {
+              "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/PruebaPractica.Application.csproj"
             },
-            "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Domain\\PruebaPractica.Domain.csproj": {
-              "projectPath": "C:\\Users\\baguinsa\\OneDrive - Banco Pichincha C.A\\Documentos\\c#\\proyectosclonados\\EjercicioPractico\\src\\PruebaPractica.Domain\\PruebaPractica.Domain.csproj"
+            "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj": {
+              "projectPath": "/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Domain/PruebaPractica.Domain.csproj"
             }
           }
         }
@@ -442,7 +474,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -454,7 +487,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

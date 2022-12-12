@@ -1,15 +1,30 @@
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\bin\Debug\net6.0\PruebaPractica.Application.deps.json
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\bin\Debug\net6.0\PruebaPractica.Application.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\bin\Debug\net6.0\PruebaPractica.Application.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\bin\Debug\net6.0\PruebaPractica.Domain.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\bin\Debug\net6.0\PruebaPractica.Domain.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.csproj.AssemblyReference.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.AssemblyInfoInputs.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.AssemblyInfo.cs
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.csproj.CoreCompileInputs.cache
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.csproj.CopyComplete
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\refint\PruebaPractica.Application.dll
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\PruebaPractica.Application.pdb
-C:\Users\baguinsa\OneDrive - Banco Pichincha C.A\Documentos\c#\proyectosclonados\EjercicioPractico\src\PruebaPractica.Application\obj\Debug\net6.0\ref\PruebaPractica.Application.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.deps.json
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Domain.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Domain.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.AssemblyReference.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.AssemblyInfoInputs.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.AssemblyInfo.cs
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.CoreCompileInputs.cache
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.CopyComplete
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/refint/PruebaPractica.Application.dll
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.pdb
+C:/Users/baguinsa/OneDrive - Banco Pichincha C.A/Documentos/c#/proyectosclonados/EjercicioPractico/src/PruebaPractica.Application/obj/Debug/net6.0/ref/PruebaPractica.Application.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.deps.json
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Application.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Domain.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/bin/Debug/net6.0/PruebaPractica.Domain.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.AssemblyReference.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.AssemblyInfoInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.AssemblyInfo.cs
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.CoreCompileInputs.cache
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.csproj.CopyComplete
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/refint/PruebaPractica.Application.dll
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/PruebaPractica.Application.pdb
+/mnt/HDD/c#/baguinsa_api_net/src/PruebaPractica.Application/obj/Debug/net6.0/ref/PruebaPractica.Application.dll

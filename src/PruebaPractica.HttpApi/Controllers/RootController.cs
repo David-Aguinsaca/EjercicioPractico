@@ -19,4 +19,10 @@ public class RootController : ControllerBase
     {
         return rootAppServiceController.MetodoGet();
     }
+
+    [HttpGet("baguinsa_api_net_async")]
+    public Task<Root> GetAllAsync()
+    {
+        return rootAppServiceController.ObtenerApiTask();
+    }
 }

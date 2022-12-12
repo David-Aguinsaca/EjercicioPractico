@@ -1,4 +1,5 @@
 // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
+//paso 1 crear modelado
 public class Info
 {
     public int count { get; set; }
